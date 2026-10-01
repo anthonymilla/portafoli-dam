@@ -1,0 +1,21 @@
+============================================================
+PORTAFOLI PERSONAL I BITÀCOLA DE DESENVOLUPAMENT
+============================================================
+
+1. SOBRE MI
+
+Nom i cognoms: Anthony Milla
+Cicle: CFGS Desenvolupament d'Aplicacions Multiplataforma (DAM)
+Presentació: Sóc un estudiant de Barcelona que viu a Mataró. Vaig fer el Grau Mitjà de SMR a l'Escola Pia Santa Anna de Mataró i ara continuo en el mateix centre cursant el Grau Superior de DAM. Tinc experiència en reparació de maquinari, suport tècnic i m'interessa especialment el desenvolupament d'aplicacions per a la gestió d'incidències.
+
+2. HABILITATS I EINES TÈCNIQUES
+
+- Sistemes operatius: Linux, Windows
+- Control de versions: Git, GitHub, BitBucket
+- Línia de comandes: Bash / Terminal
+- Entorns i eines: VS Code, Java, Python, JavaScript, HTML, C++, PHP, MySQL
+
+3. BITÀCOLA DE PROJECTES I PRÀCTIQUES
+
+Pràctica 01: Configuració de l'entorn i repositori Git
+- Descripció: Creació del portafoli personal i configuració del control de versions amb Git i GitHub.
